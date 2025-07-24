@@ -1,26 +1,84 @@
-This is a BookStore web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+# 📚 BookStore Web Application (MERN Stack)
 
-Features
-User login and registration
+This is a full-stack BookStore web application built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js).
 
-View and manage books
+## ✨ Features
 
-Admin can add, edit, and delete books
+- 👤 User registration and login  
+- 📚 Browse and view available books  
+- 🛒 Users can manage and interact with books  
+- 🛠️ Admin functionality:  
+  - Add new books  
+  - Edit existing books  
+  - Delete books  
 
-Technologies Used
-Frontend: React.js, Axios, React Router
+## 🧰 Tech Stack
 
-Backend: Node.js, Express.js, MongoDB, Mongoose
+### 🔹 Frontend:
+- React.js  
+- Axios  
+- React Router DOM  
 
-Authentication: JWT
+### 🔹 Backend:
+- Node.js  
+- Express.js  
+- MongoDB (via Mongoose)  
 
-How to Run
-Clone the repository
+### 🔐 Authentication:
+- JSON Web Tokens (JWT)  
 
-Install dependencies in both Frontend and Backend folders
+---
 
-Add .env file in the backend with required variables
+## 🚀 Getting Started
 
-Start backend: npm start
+### 📦 Clone the Repository
+```bash
+git clone https://github.com/suhani1903/Book_Store_Website.git
+cd Book_Store_Website
+```
 
-Start frontend: npm start
+### 📁 Install Dependencies
+
+#### 🔸 Backend
+```bash
+cd Backend
+npm install
+```
+
+#### 🔸 Frontend
+```bash
+cd ../Frontend
+npm install
+```
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file inside the `Backend` directory with the following:
+
+```env
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+```
+
+---
+
+## 🖥️ Running the App
+
+### ▶️ Start Backend Server
+
+```bash
+cd Backend
+npm start
+```
+
+### ▶️ Start Frontend Server
+
+```bash
+cd ../Frontend
+npm start
+```
+
+---
