@@ -1,0 +1,109 @@
+[
+    {
+        "id":1,
+        "name":"Ikigai",
+        "title":" this book is about aur mental and also physical health",
+        "price": 100,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":2,
+        "name":"Comic Book",
+        "title":" this book is about aur mental and also physical health",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":3,
+        "name":"Recipe Book",
+        "title":" this book is about aur mental and also physical health",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":4,
+        "name":"Horror Book",
+        "title":" this book is about aur mental and also physical health",
+        "price": 100,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":5,
+        "name":"Romantic Book",
+        "title":" this book is about aur mental and also physical health",
+        "price":80,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":6,
+        "name":"Novel",
+        "title":" this book is about aur mental and also physical health",
+        "price": 230,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":7,
+        "name":"Motivational Book",
+        "title":" this book is about aur mental and also physical health",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":8,
+        "name":"General Books",
+        "title":" this book is about aur mental and also physical health",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":9,
+        "name":"Thriller Book",
+        "title":" this book is about aur mental and also physical health",
+        "price":450,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":10,
+        "name":"Music book",
+        "title":" this book is about aur mental and also physical health",
+        "price": 670,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":" this book is about aur mental and also physical health",
+        "price": 230,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    },
+
+    {
+        "id":12,
+        "name":"Powerful books",
+        "title":" this book is about aur mental and also physical health",
+        "price": 90,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1737705940~exp=1737709540~hmac=9bdb43dc4d421814e9d7f33d78876e7d72c77bf8e68f91f7c0498a073bda0e51&w=740"
+    }
+]
